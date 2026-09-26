@@ -1,4 +1,4 @@
-Fork of scratch-storage used by Bilup.
+Fork of scratch-storage used by PineWarp.
 
 <!--
 ## scratch-storage
